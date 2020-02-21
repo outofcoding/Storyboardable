@@ -14,5 +14,6 @@ extension UIStoryboard {
 
 # UIViewController in code
 ```
-let viewController = UIStoryboard.Main.test.get()
+let viewController = UIStoryboard.Main.test.get
+navigationController.pushViewController(viewController)
 ```
