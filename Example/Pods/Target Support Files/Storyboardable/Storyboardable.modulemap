@@ -1,0 +1,6 @@
+framework module Storyboardable {
+  umbrella header "Storyboardable-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - Storyboardable (0.1.0)
+
+DEPENDENCIES:
+  - Storyboardable (from `../`)
+
+EXTERNAL SOURCES:
+  Storyboardable:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Storyboardable: 71f7060032feb59f046dc736ba4580987ac5eeab
+
+PODFILE CHECKSUM: e74609280ecb9a00d0fe73ac8d3a23f964f54de2
+
+COCOAPODS: 1.8.4
