@@ -33,7 +33,7 @@ Storyboardable is available under the MIT license. See the LICENSE file for more
 # Use.
 
 ## Enum Case
-Create an enum that inherits Storyboardable
+Create an enum that inherits Storyboardable. case is storyboard file identity Storyboard ID.
 ```
 enum Main : Storyboardable {
     case first
